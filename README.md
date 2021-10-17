@@ -41,7 +41,7 @@ lang=EN-US>8</span>个脚垫，收货时记得检查配件是否齐全。<span l
 style='mso-bidi-font-size:10.5pt;font-family:"思源黑体",sans-serif'><span
 style='mso-spacerun:yes'>&nbsp;</span><span
 style='mso-spacerun:yes'>&nbsp;</span></span><span style='mso-bidi-font-size:
-10.5pt;font-family:"思源黑体",sans-serif'>（现已适配VIA，配置文件已经放到群<span lang=EN-US>947413266</span>文件中，大家可以根据自己的需求改键。）方法是将<span
+10.5pt;font-family:"思源黑体",sans-serif'>（现已适配VIA，配置文件已经放到群<span lang=EN-US>947413266</span>文件中，大家可以根据自己的需求改键。后面这段不用看了）方法是将<span
 lang=EN-US>.json</span>文件上传到<span lang=EN-US><a href="https://kbfirmware.com/">https://kbfirmware.com/</a></span>或者<span
 lang=EN-US><a href="http://qmkeyboard.cn/">http://qmkeyboard.cn/</a> <span
 style='mso-spacerun:yes'>&nbsp;</span></span>点击<span lang=EN-US>KEYMAP</span>页编辑层和<span

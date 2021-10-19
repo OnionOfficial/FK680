@@ -32,10 +32,6 @@ style='mso-spacerun:yes'>&nbsp;</span></span><span style='mso-bidi-font-size:
 lang=EN-US>Type-C</span>数据线，一个<span class=GramE>拔键拔轴</span>器，一个螺丝刀，<span
 lang=EN-US>8</span>个脚垫，收货时记得检查配件是否齐全。<span lang=EN-US><o:p></o:p></span></span></p>
 
-  <style type="text/css" media="screen">
-.line_m{text-decoration:line-through}
-</style>
-<span class="line_m">        </span>文字<span class="line_m">        </span>
   
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:"思源黑体",sans-serif'><span
